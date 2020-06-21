@@ -1,0 +1,6 @@
+
+pyenv install anaconda3-4.4.1
+conda install -c conda-forge pygrib
+brew install libjpeg
+conda update curl
+conda update numpy
